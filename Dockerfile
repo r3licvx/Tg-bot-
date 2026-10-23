@@ -22,4 +22,4 @@ EXPOSE 8080
 # Environment variable হিসেবে PORT সেট করুন
 ENV PORT=8080
 
-CMD ["python", "bot.py"]
+CMD ["python", "main.py"]
